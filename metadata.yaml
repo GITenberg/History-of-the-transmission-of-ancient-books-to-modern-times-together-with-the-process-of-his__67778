@@ -1,0 +1,32 @@
+_repo: History-of-the-transmission-of-ancient-books-to-modern-times-together-with-the-process-of-his__67778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Isaac
+    birthdate: 1787
+    deathdate: 1865
+    gutenberg_agent_id: '39574'
+    url: http://www.gutenberg.org/2009/agents/39574
+description: ''
+gutenberg_issued: '2022-04-05'
+identifiers:
+  gutenberg: '67778'
+language: en
+pgterms:marc904: https://archive.org/details/historyoftransmi01tayl
+pgterms:marc905: 20201117045313taylor
+pgterms:marc906: '1859'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Jackson and Walford,1859.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'History of the transmission of ancient books to modern times; together with
+  the process of historical proof: A concise account of the means by which genuineness
+  of ancient literature generally, and the authenticity of historical works especially
+  are ascertained including incidental remarks upon the relative strength of the evidence
+  usually adduced in behalf of the Holy Scriptures'
+url: http://www.gutenberg.org/ebooks/67778
