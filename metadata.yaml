@@ -1,5 +1,8 @@
 _repo: History-of-the-transmission-of-ancient-books-to-modern-times-together-with-the-process-of-his__67778
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67778-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Isaac
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39574'
     url: http://www.gutenberg.org/2009/agents/39574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67778#History-of-the-transmission-of-ancient-books-to-modern-times-together-with-the-process-of-his_
 gutenberg_issued: '2022-04-05'
 identifiers:
   gutenberg: '67778'
